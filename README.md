@@ -1,2 +1,3 @@
 # WebDeveloper-Bootcamp
-WebDeveloper-Bootcamp Course repo
+
+This repository is to keep track of my progress in my course of Colt Steeles Bootcamp
